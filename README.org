@@ -2,9 +2,9 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://codeberg.org/glv/cl-lzlib.git   |
-| commit  |   |
-| systems | cl-lzlib |
-|---------+-------------------------------------------|
+8e4a6a1---------+-------------------------------------------|
+8e4a6a1 source  | git:https://codeberg.org/glv/cl-lzlib.git   |
+8e4a6a1 commit  |   |
+8e4a6a1 systems | cl-lzlib |
+8e4a6a1---------+-------------------------------------------|
 
